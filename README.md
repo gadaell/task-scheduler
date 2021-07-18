@@ -25,6 +25,6 @@ Note: Gray means past time, Red means current time, Green means future time
 
 ## Contribution
 
-Made by A'Darius (A'D) Ellis
+Made by A'Darius (A'D) Ellis, helped by Michael Hodges, Patrick Abernathy, and Thomas Upchurch.
 
 ### ©️2021 Task Scheduler
