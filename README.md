@@ -1,5 +1,7 @@
 # Task Day Scheduler
 
+![Screenshot](./assets/screenshot-task-scheduler.PNG)
+
 # Purpose
 
 A website that keeps track of your tasks and helps display the time lapse throughout the day once it passed that time frame.
